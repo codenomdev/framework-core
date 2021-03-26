@@ -31,5 +31,5 @@
             "Codenom\\Component\\": "src/Component/"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev-master"
 }
