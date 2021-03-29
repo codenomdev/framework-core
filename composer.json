@@ -1,4 +1,3 @@
-  
 {
     "name": "codenom/core",
     "description": "The Codenom core for CodeIgniter 4 custom.",
@@ -30,5 +29,6 @@
         "psr-4": {
             "Codenom\\Component\\": "src/Component/"
         }
-    }
+    },
+    "minimum-stability": "dev-master"
 }
