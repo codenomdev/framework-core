@@ -29,6 +29,5 @@
         "psr-4": {
             "Codenom\\Component\\": "src/Component/"
         }
-    },
-    "minimum-stability": "dev-master"
+    }
 }
